@@ -46,14 +46,14 @@ namespace FriendFinder
             // Find friends based on you (your position or a position reported by a GPS)
             //
 
-            //var you = FileReader.ReadFiles<Point>(@Friends_path, false).LastOrDefault();
+            var you = FileReader.ReadFiles<Point>(@Friends_path, false).LastOrDefault();
 
-            //if (you != null)
-            //{
-            //    var nearests = Processor.FindNearestNeighbours(count, you, friends);
-            //    Console.Clear();
-            //    DisplayNearests(nearests, you);
-            //}
+            if (you != null)
+            {
+                var nearests = Processor.FindNearestNeighbours(count, you, friends);
+                Console.Clear();
+                DisplayNearests(nearests, you);
+            }
 
 
             //TODO: Implement find nearest 3 for each friend.

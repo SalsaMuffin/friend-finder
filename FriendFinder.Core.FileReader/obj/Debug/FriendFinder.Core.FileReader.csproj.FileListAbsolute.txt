@@ -2,4 +2,3 @@ c:\users\acastellani\documents\visual studio 2015\Projects\FriendFinder\FriendFi
 c:\users\acastellani\documents\visual studio 2015\Projects\FriendFinder\FriendFinder.Core.FileReader\bin\Debug\FriendFinder.Core.FileReader.pdb
 c:\users\acastellani\documents\visual studio 2015\Projects\FriendFinder\FriendFinder.Core.FileReader\obj\Debug\FriendFinder.Core.FileReader.dll
 c:\users\acastellani\documents\visual studio 2015\Projects\FriendFinder\FriendFinder.Core.FileReader\obj\Debug\FriendFinder.Core.FileReader.pdb
-C:\Users\ACastellani\documents\visual studio 2015\Projects\FriendFinder\FriendFinder.Core.FileReader\obj\Debug\FriendFinder.Core.FileReader.csprojResolveAssemblyReference.cache
