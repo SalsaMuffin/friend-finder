@@ -1,0 +1,14 @@
+c:\users\acastellani\documents\visual studio 2015\Projects\FriendFinder\FriendFinder.Tests\bin\Debug\FriendFinder.Tests.dll
+c:\users\acastellani\documents\visual studio 2015\Projects\FriendFinder\FriendFinder.Tests\bin\Debug\FriendFinder.Tests.pdb
+c:\users\acastellani\documents\visual studio 2015\Projects\FriendFinder\FriendFinder.Tests\bin\Debug\FriendFinder.Core.FileReader.dll
+c:\users\acastellani\documents\visual studio 2015\Projects\FriendFinder\FriendFinder.Tests\bin\Debug\FriendFinder.Core.Processor.dll
+c:\users\acastellani\documents\visual studio 2015\Projects\FriendFinder\FriendFinder.Tests\bin\Debug\FriendFinder.Entity.dll
+c:\users\acastellani\documents\visual studio 2015\Projects\FriendFinder\FriendFinder.Tests\bin\Debug\FriendFinder.exe
+c:\users\acastellani\documents\visual studio 2015\Projects\FriendFinder\FriendFinder.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+c:\users\acastellani\documents\visual studio 2015\Projects\FriendFinder\FriendFinder.Tests\bin\Debug\FriendFinder.Core.FileReader.pdb
+c:\users\acastellani\documents\visual studio 2015\Projects\FriendFinder\FriendFinder.Tests\bin\Debug\FriendFinder.Core.Processor.pdb
+c:\users\acastellani\documents\visual studio 2015\Projects\FriendFinder\FriendFinder.Tests\bin\Debug\FriendFinder.Entity.pdb
+c:\users\acastellani\documents\visual studio 2015\Projects\FriendFinder\FriendFinder.Tests\bin\Debug\FriendFinder.pdb
+c:\users\acastellani\documents\visual studio 2015\Projects\FriendFinder\FriendFinder.Tests\obj\Debug\FriendFinder.Tests.csprojResolveAssemblyReference.cache
+c:\users\acastellani\documents\visual studio 2015\Projects\FriendFinder\FriendFinder.Tests\obj\Debug\FriendFinder.Tests.dll
+c:\users\acastellani\documents\visual studio 2015\Projects\FriendFinder\FriendFinder.Tests\obj\Debug\FriendFinder.Tests.pdb

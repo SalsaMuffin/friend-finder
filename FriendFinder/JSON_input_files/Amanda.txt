@@ -1,0 +1,4 @@
+{
+"Name":"Amanda",
+"Location":{"Lat":33.5445554, "Long":17.98444334}
+}

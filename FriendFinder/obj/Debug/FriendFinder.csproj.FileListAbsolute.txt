@@ -1,0 +1,12 @@
+c:\users\acastellani\documents\visual studio 2015\Projects\FriendFinder\FriendFinder\bin\Debug\FriendFinder.exe.config
+c:\users\acastellani\documents\visual studio 2015\Projects\FriendFinder\FriendFinder\bin\Debug\FriendFinder.exe
+c:\users\acastellani\documents\visual studio 2015\Projects\FriendFinder\FriendFinder\bin\Debug\FriendFinder.pdb
+c:\users\acastellani\documents\visual studio 2015\Projects\FriendFinder\FriendFinder\bin\Debug\FriendFinder.Core.FileReader.dll
+c:\users\acastellani\documents\visual studio 2015\Projects\FriendFinder\FriendFinder\bin\Debug\FriendFinder.Core.Processor.dll
+c:\users\acastellani\documents\visual studio 2015\Projects\FriendFinder\FriendFinder\bin\Debug\FriendFinder.Entity.dll
+c:\users\acastellani\documents\visual studio 2015\Projects\FriendFinder\FriendFinder\bin\Debug\FriendFinder.Core.FileReader.pdb
+c:\users\acastellani\documents\visual studio 2015\Projects\FriendFinder\FriendFinder\bin\Debug\FriendFinder.Core.Processor.pdb
+c:\users\acastellani\documents\visual studio 2015\Projects\FriendFinder\FriendFinder\bin\Debug\FriendFinder.Entity.pdb
+c:\users\acastellani\documents\visual studio 2015\Projects\FriendFinder\FriendFinder\obj\Debug\FriendFinder.csprojResolveAssemblyReference.cache
+c:\users\acastellani\documents\visual studio 2015\Projects\FriendFinder\FriendFinder\obj\Debug\FriendFinder.exe
+c:\users\acastellani\documents\visual studio 2015\Projects\FriendFinder\FriendFinder\obj\Debug\FriendFinder.pdb

@@ -1,0 +1,46 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FriendFinder", "FriendFinder\FriendFinder.csproj", "{DB37A469-681D-4DE6-9E94-0F0C6DFA7E3D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FriendFinder.Core.FileReader", "FriendFinder.Core.FileReader\FriendFinder.Core.FileReader.csproj", "{1F19AB8D-0893-4859-B11A-8C9C36524216}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FriendFinder.Entity", "FriendFinder.Entity\FriendFinder.Entity.csproj", "{48ECF59B-DA07-45A9-8445-63179E8AE05D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FriendFinder.Core.Processor", "FriendFinder.Core.Processor\FriendFinder.Core.Processor.csproj", "{1C0290A7-E759-4502-95F2-B16231C016EE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FriendFinder.Tests", "FriendFinder.Tests\FriendFinder.Tests.csproj", "{489CAB5A-2BD9-43E0-A502-0415796C4562}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DB37A469-681D-4DE6-9E94-0F0C6DFA7E3D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB37A469-681D-4DE6-9E94-0F0C6DFA7E3D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB37A469-681D-4DE6-9E94-0F0C6DFA7E3D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB37A469-681D-4DE6-9E94-0F0C6DFA7E3D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1F19AB8D-0893-4859-B11A-8C9C36524216}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F19AB8D-0893-4859-B11A-8C9C36524216}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1F19AB8D-0893-4859-B11A-8C9C36524216}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F19AB8D-0893-4859-B11A-8C9C36524216}.Release|Any CPU.Build.0 = Release|Any CPU
+		{48ECF59B-DA07-45A9-8445-63179E8AE05D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{48ECF59B-DA07-45A9-8445-63179E8AE05D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{48ECF59B-DA07-45A9-8445-63179E8AE05D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{48ECF59B-DA07-45A9-8445-63179E8AE05D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1C0290A7-E759-4502-95F2-B16231C016EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C0290A7-E759-4502-95F2-B16231C016EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C0290A7-E759-4502-95F2-B16231C016EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C0290A7-E759-4502-95F2-B16231C016EE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{489CAB5A-2BD9-43E0-A502-0415796C4562}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{489CAB5A-2BD9-43E0-A502-0415796C4562}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{489CAB5A-2BD9-43E0-A502-0415796C4562}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{489CAB5A-2BD9-43E0-A502-0415796C4562}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
